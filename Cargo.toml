@@ -1,0 +1,7 @@
+[package]
+name = "mini-mllx"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+mlx-rs = "=0.32.0"
